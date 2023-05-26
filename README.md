@@ -2,7 +2,7 @@
 
 This repository is used to track all feature request.
 
-# Add requests
+# How to add a feature request?
 
 Everyone can add features requests to this repository. Please check the existing requests before adding a new one.
 
